@@ -30,7 +30,7 @@ Create PO files:
 
 ```
 make gettext
-sphinx-intl update -p _build/gettext -l de
+sphinx-intl update -p _build/gettext -l es
 ```
 
 Then edit PO files.
