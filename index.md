@@ -1,10 +1,16 @@
 # Test
 
+## Test cases
+
 ```{eval-rst}
 .. admonition:: A title
 
    A body
 ```
+
+This is **bold text**.
+
+## Reproduction
 
 Install:
 
@@ -29,7 +35,7 @@ BUG:
 Create PO files:
 
 ```
-make gettext
+sphinx-build -b gettext . _build/gettext
 sphinx-intl update -p _build/gettext -l es
 ```
 

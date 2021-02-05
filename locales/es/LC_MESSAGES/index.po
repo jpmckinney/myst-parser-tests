@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MyST Test \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-05 18:14-0500\n"
+"POT-Creation-Date: 2021-02-05 18:30-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,11 +21,47 @@ msgstr ""
 msgid "Test"
 msgstr ""
 
-#: ../../index.md:4
+#: ../../index.md:3
+msgid "Test cases"
+msgstr ""
+
+#: ../../index.md:6
 msgid "A title"
 msgstr "Un título"
 
-#: ../../index.md:6
+#: ../../index.md:8
 msgid "A body"
 msgstr "El contenido"
+
+#: ../../index.md:11
+msgid "This is bold text."
+msgstr ""
+
+#: ../../index.md:13
+msgid "Reproduction"
+msgstr ""
+
+#: ../../index.md:15
+msgid "Install:"
+msgstr ""
+
+#: ../../index.md:21
+msgid "Run:"
+msgstr ""
+
+#: ../../index.md:27
+msgid "BUG:"
+msgstr ""
+
+#: ../../index.md:33
+msgid "Maintenance"
+msgstr ""
+
+#: ../../index.md:35
+msgid "Create PO files:"
+msgstr ""
+
+#: ../../index.md:42
+msgid "Then edit PO files."
+msgstr ""
 
