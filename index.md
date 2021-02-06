@@ -8,7 +8,7 @@
    A body
 ```
 
-### This is _italic text_
+### This is _italic_ text
 
 This is **bold** text.
 
@@ -18,7 +18,7 @@ This is **bold** text.
 
 * This is **bold**
 
-definition
+**Bold** term
 : **bold** is correct
 
     **Bold** indent
@@ -48,7 +48,7 @@ sphinx-build -b gettext . _build/gettext
 sphinx-intl update -p _build/gettext -l es
 ```
 
-BUG: `_build/gettext/index.pot` contains `This is bold text` instead of `This is **bold text**.`
+BUG: `_build/gettext/index.pot` contains `This is bold text` instead of `This is **bold** text.`
 
 Build HTML pages:
 
