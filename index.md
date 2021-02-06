@@ -8,6 +8,8 @@
    A body
 ```
 
+### This is _italic text_
+
 This is **bold text**.
 
 ## Reproduction
