@@ -12,6 +12,23 @@
 
 This is **bold text**.
 
+> More **bold**
+
+1. I am **bold**
+
+* This is **bold**
+
+definition
+: **bold** is correct
+
+    **Bold** indent
+
+<div markdown=1>
+
+**Bold** yet?
+
+</div>
+
 ## Reproduction
 
 Install:
