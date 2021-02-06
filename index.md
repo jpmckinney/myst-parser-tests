@@ -10,7 +10,7 @@
 
 ### This is _italic text_
 
-This is **bold text**.
+This is **bold** text.
 
 > More **bold**
 
@@ -28,6 +28,10 @@ definition
 **Bold** yet?
 
 </div>
+
+| **Bold** heading |
+| ---------------- |
+| Text is **bold** |
 
 ## Reproduction
 
