@@ -10,6 +10,13 @@
    A body
 ```
 
+### CSV Table
+
+```{csv-table}
+   :header-rows: 1
+   :file: codelist.csv
+```
+
 ### Math
 
 If Alice gives Bob $10, and Bob gives Eve $10, how much money does Bob have?
