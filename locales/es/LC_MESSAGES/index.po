@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MyST Test \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-08 17:40-0500\n"
+"POT-Creation-Date: 2021-02-15 14:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,33 +38,63 @@ msgid "A body"
 msgstr "El contenido"
 
 #: ../../index.md:13
-msgid "Math"
+msgid "CSV Table"
 msgstr ""
 
 #: ../../index.md:15
+msgid "Code"
+msgstr ""
+
+#: ../../index.md:15
+#, fuzzy
+msgid "Title"
+msgstr "Un título"
+
+#: ../../index.md:15
+msgid "Description"
+msgstr ""
+
+#: ../../index.md:15
+msgid "a"
+msgstr ""
+
+#: ../../index.md:15
+msgid "A"
+msgstr ""
+
+#: ../../index.md:15
+msgid "A [description](https://example.com)"
+msgstr ""
+
+#: ../../index.md:20
+msgid "Math"
+msgstr ""
+
+#: ../../index.md:22
 msgid ""
 "If Alice gives Bob $10, and Bob gives Eve $10, how much money does Bob "
 "have?"
 msgstr ""
 
-#: ../../index.md:17
+#: ../../index.md:24
 msgid "Reproduction"
 msgstr ""
 
-#: ../../index.md:19
+#: ../../index.md:26
 msgid "Install:"
 msgstr ""
 
-#: ../../index.md:25
+#: ../../index.md:32
 msgid "Create PO files:"
 msgstr ""
 
-#: ../../index.md:32
+#: ../../index.md:39
 msgid "Build HTML pages:"
 msgstr ""
 
-#: ../../index.md:38
+#: ../../index.md:45
 msgid ""
 "BUG: `/path/to/index.md:4:<translated>:1: WARNING: Non-consecutive header"
 " level increase; 0 to 2`"
 msgstr ""
+
