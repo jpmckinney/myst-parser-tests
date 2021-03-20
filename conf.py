@@ -53,3 +53,4 @@ html_theme = 'alabaster'
 # html_static_path = ['_static']
 
 myst_enable_extensions = ['deflist', 'dollarmath']
+myst_heading_anchors = 6

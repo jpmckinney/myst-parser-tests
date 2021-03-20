@@ -1,5 +1,9 @@
 # Test
 
+* [Link](#test-cases)
+* [Link](#heading-hyphen)
+* [Link](#example-1-1)
+
 ## Test cases
 
 ### Admonition
@@ -20,6 +24,10 @@
 ### Math
 
 If Alice gives Bob $10, and Bob gives Eve $10, how much money does Bob have?
+
+### Heading - Hyphen
+
+### Example 1.1
 
 ## Reproduction
 
