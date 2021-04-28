@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MyST Test \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-15 14:25-0500\n"
+"POT-Creation-Date: 2021-04-28 16:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,77 +22,109 @@ msgid "Test"
 msgstr ""
 
 #: ../../index.md:3
-msgid "Test cases"
+msgid "[Link](#test-cases)"
+msgstr ""
+
+#: ../../index.md:4
+msgid "[Link](#heading-hyphen)"
 msgstr ""
 
 #: ../../index.md:5
+msgid "[Link](#example-1-1)"
+msgstr ""
+
+#: ../../index.md:7
+msgid "Test cases"
+msgstr ""
+
+#: ../../index.md:9
 msgid "Admonition"
 msgstr ""
 
-#: ../../index.md:8
+#: ../../index.md:12
 msgid "A title"
 msgstr "Un título"
 
-#: ../../index.md:10
+#: ../../index.md:14
 msgid "A body"
 msgstr "El contenido"
 
-#: ../../index.md:13
+#: ../../index.md:17
 msgid "CSV Table"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:19
 msgid "Code"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:19
 #, fuzzy
 msgid "Title"
 msgstr "Un título"
 
-#: ../../index.md:15
+#: ../../index.md:19
 msgid "Description"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:19
 msgid "a"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:19
 msgid "A"
 msgstr ""
 
-#: ../../index.md:15
+#: ../../index.md:19
 msgid "A [description](https://example.com)"
 msgstr ""
 
-#: ../../index.md:20
+#: ../../index.md:24
 msgid "Math"
 msgstr ""
 
-#: ../../index.md:22
+#: ../../index.md:26
 msgid ""
 "If Alice gives Bob $10, and Bob gives Eve $10, how much money does Bob "
 "have?"
 msgstr ""
 
-#: ../../index.md:24
+#: ../../index.md:28
+msgid "Duplicate labels"
+msgstr ""
+
+#: ../../index.md:30 ../../index.md:35
+msgid "Example"
+msgstr "Ejemplo"
+
+#: ../../index.md:30 ../../index.md:35
+msgid "Content"
+msgstr ""
+
+#: ../../index.md:40
+msgid "Heading - Hyphen"
+msgstr ""
+
+#: ../../index.md:42
+msgid "Example 1.1"
+msgstr ""
+
+#: ../../index.md:44
 msgid "Reproduction"
 msgstr ""
 
-#: ../../index.md:26
+#: ../../index.md:46
 msgid "Install:"
 msgstr ""
 
-#: ../../index.md:32
+#: ../../index.md:52
 msgid "Create PO files:"
 msgstr ""
 
-#: ../../index.md:39
+#: ../../index.md:59
 msgid "Build HTML pages:"
 msgstr ""
 
-#: ../../index.md:45
+#: ../../index.md:65
 msgid ""
 "BUG: `/path/to/index.md:4:<translated>:1: WARNING: Non-consecutive header"
 " level increase; 0 to 2`"

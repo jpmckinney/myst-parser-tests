@@ -25,6 +25,18 @@
 
 If Alice gives Bob $10, and Bob gives Eve $10, how much money does Bob have?
 
+### Duplicate labels
+
+```{admonition} Example
+
+Content
+```
+
+```{admonition} Example
+
+Content
+```
+
 ### Heading - Hyphen
 
 ### Example 1.1
